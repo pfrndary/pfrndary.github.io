@@ -1,5 +1,4 @@
-Prompt: Give me simple steps to install ELK in linux
-Response: Sure, here are the simple steps to install ELK (Elasticsearch, Logstash, and Kibana) stack on a Linux system:
+Sure, here are the simple steps to install ELK (Elasticsearch, Logstash, and Kibana) stack on a Linux system:
 
 1. Install Elasticsearch:
 	* Download the appropriate package for your distribution from <https://www.elastic.co/downloads/elasticsearch>
